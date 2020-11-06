@@ -1,0 +1,17 @@
+.uploadImage {
+  display: flex;
+  flex-direction: column;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.uploadImage__progress {
+  width: 100%;
+  margin-bottom: 10px;
+  height: 10px;
+}
+.uploadImage > input {
+  padding: 10px;
+}
