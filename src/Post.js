@@ -43,7 +43,7 @@ function Post({ postId, username, caption, imageUrl, user }) {
           alt={username}
           src="/static/images/avatar/1.jpg"
         />
-        <h1>{username}</h1>
+        <h2>{username}</h2>
       </div>
 
       {/* Header--> avatar+username */}
